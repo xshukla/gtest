@@ -13,3 +13,5 @@ creating a conflict!
 another change!
 
 creating chances to stash
+
+now chaging for gitk and gui
