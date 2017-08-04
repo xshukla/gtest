@@ -11,3 +11,5 @@ after merging with master branch
 creating a conflict!
 
 another change!
+
+creating chances to stash
